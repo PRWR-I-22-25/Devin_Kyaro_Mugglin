@@ -1,4 +1,4 @@
 Fragestellung: Wie viele neu geschaffene und verlorene Arbeitsstellen gibt es im Kanton Freiburg?
 
 Projekt: Wir möchten untersuchen in welchen Gemeinden des Kanton Freiburg die meisten Firmen gegründet werden und wo die Firmen aufgelöst werden.
-Die erarbeiteten Daten sollten auf einer Karte dargestellt werden. Die Karte soll diejenigen Gemeinden, in denen viele Unternehmen gegründet werden, dunkler darstellen und die Gemeinden, in denen wenige Unternehmen gegründet bzw. mehr Unternehmen aufgelöst werden, heller darstellen. 
+Die erarbeiteten Daten sollten auf einer Karte dargestellt werden. Auf der Karte sollten die verschiedenen Gemeinden, nach anzahl der Unternehmungsgründungen bzw. -auflösungen, heller oder dünkler dargestellt werden.
